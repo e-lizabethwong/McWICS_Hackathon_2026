@@ -1,3 +1,4 @@
 # McWICS_Hackathon_2026
 
-first commit time woo
+second commit time woo
+create snowflake stuff? i hope lol
